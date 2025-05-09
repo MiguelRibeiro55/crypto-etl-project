@@ -42,7 +42,7 @@ docker-compose --version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/crypto-etl.git
+git clone https://github.com/MiguelRibeiro55/crypto-etl.git
 cd crypto-etl
 ```
 
